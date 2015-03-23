@@ -44,9 +44,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/goodeggs/angular-cached-resource</url>
-        <connection>scm:git:https://github.com/goodeggs/angular-cached-resource.git</connection>
-        <developerConnection>scm:git:https://github.com/goodeggs/angular-cached-resource.git</developerConnection>
+        <url>https://github.com/webjars/angular-cached-resource.git</url>
+        <connection>scm:git:https://github.com/webjars/angular-cached-resource.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/angular-cached-resource.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
